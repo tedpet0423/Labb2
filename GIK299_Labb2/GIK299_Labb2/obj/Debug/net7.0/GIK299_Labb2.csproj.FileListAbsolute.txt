@@ -1,0 +1,15 @@
+/Users/tedpettersson/Desktop/Skola/GIK299/GIK299_Labb2/GIK299_Labb2/bin/Debug/net7.0/GIK299_Labb2
+/Users/tedpettersson/Desktop/Skola/GIK299/GIK299_Labb2/GIK299_Labb2/bin/Debug/net7.0/GIK299_Labb2.deps.json
+/Users/tedpettersson/Desktop/Skola/GIK299/GIK299_Labb2/GIK299_Labb2/bin/Debug/net7.0/GIK299_Labb2.runtimeconfig.json
+/Users/tedpettersson/Desktop/Skola/GIK299/GIK299_Labb2/GIK299_Labb2/bin/Debug/net7.0/GIK299_Labb2.dll
+/Users/tedpettersson/Desktop/Skola/GIK299/GIK299_Labb2/GIK299_Labb2/bin/Debug/net7.0/GIK299_Labb2.pdb
+/Users/tedpettersson/Desktop/Skola/GIK299/GIK299_Labb2/GIK299_Labb2/obj/Debug/net7.0/GIK299_Labb2.csproj.AssemblyReference.cache
+/Users/tedpettersson/Desktop/Skola/GIK299/GIK299_Labb2/GIK299_Labb2/obj/Debug/net7.0/GIK299_Labb2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tedpettersson/Desktop/Skola/GIK299/GIK299_Labb2/GIK299_Labb2/obj/Debug/net7.0/GIK299_Labb2.AssemblyInfoInputs.cache
+/Users/tedpettersson/Desktop/Skola/GIK299/GIK299_Labb2/GIK299_Labb2/obj/Debug/net7.0/GIK299_Labb2.AssemblyInfo.cs
+/Users/tedpettersson/Desktop/Skola/GIK299/GIK299_Labb2/GIK299_Labb2/obj/Debug/net7.0/GIK299_Labb2.csproj.CoreCompileInputs.cache
+/Users/tedpettersson/Desktop/Skola/GIK299/GIK299_Labb2/GIK299_Labb2/obj/Debug/net7.0/GIK299_Labb2.dll
+/Users/tedpettersson/Desktop/Skola/GIK299/GIK299_Labb2/GIK299_Labb2/obj/Debug/net7.0/refint/GIK299_Labb2.dll
+/Users/tedpettersson/Desktop/Skola/GIK299/GIK299_Labb2/GIK299_Labb2/obj/Debug/net7.0/GIK299_Labb2.pdb
+/Users/tedpettersson/Desktop/Skola/GIK299/GIK299_Labb2/GIK299_Labb2/obj/Debug/net7.0/GIK299_Labb2.genruntimeconfig.cache
+/Users/tedpettersson/Desktop/Skola/GIK299/GIK299_Labb2/GIK299_Labb2/obj/Debug/net7.0/ref/GIK299_Labb2.dll
